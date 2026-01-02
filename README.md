@@ -13,6 +13,7 @@ Tools used: Microsoft Excel
 
 ## Steps followed:
 step 1: The original raw data is duplicated into a new sheet. This is done for the purpose of refering to the original data at a later date.
+
 step 2: The whole dataset in sheet 2 is selected and duplicates removed.
 step 3: The column names are re-named to ensure that they are clear and understandable.
          cust is renamed to Customer_ID
